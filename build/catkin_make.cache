@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/dennis/Github/Minor-RVD/devel -DCMAKE_INSTALL_PREFIX=/home/dennis/Github/Minor-RVD/install -G Unix Makefiles
