@@ -1,0 +1,2 @@
+beginner_tutorials:car_demo/car_demo:car_demo/prius_description:car_demo/prius_msgs
+-DCATKIN_DEVEL_PREFIX=/home/dennis/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dennis/catkin_ws/install -G Unix Makefiles
